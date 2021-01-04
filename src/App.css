@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+.app {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 98vw;
+  margin: 0 auto;
+}
+
+/* if we don't need to show the dots showing number of times at the bottom of the carousel, use the class */
+.bkVSTc {
+  display: none !important;
+}
